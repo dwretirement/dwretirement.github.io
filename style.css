@@ -1,4 +1,4 @@
-#header{
+.header{
   margin-left: 5rem;
   margin-bottom: 2rem;
   margin-top: 1.5rem;
@@ -27,4 +27,12 @@ li{
   position: absolute;
   bottom: 8px;
   right: 16px;
+}
+
+#row2{
+  margin-top: 1.3rem;
+}
+
+.nav-cont{
+  padding-right: 3rem;
 }
