@@ -8,8 +8,7 @@
 .calculator{
   margin-bottom: 4rem;
   margin-right: 5rem;
-  margin-left: 5rem;
-
+  margin-left: 5.6rem;
 }
 
 #assumptions{
@@ -35,4 +34,9 @@ li{
 
 .nav-cont{
   padding-right: 3rem;
+}
+
+#copyright{
+    margin-left: 5.6rem;
+    margin-bottom: 1rem;
 }
