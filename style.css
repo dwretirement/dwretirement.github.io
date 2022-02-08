@@ -41,3 +41,10 @@ li{
     margin-left: 5.6rem;
     margin-bottom: 1rem;
 }
+
+.copyright-cont {
+  display: inline-flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  max-width: 82rem;
+}
