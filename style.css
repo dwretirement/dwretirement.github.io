@@ -37,14 +37,18 @@ li{
   padding-right: 3rem;
 }
 
+#assumptions{
+  margin-top: 0.6rem;
+}
+
 #copyright{
     margin-left: 5.6rem;
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
 }
 
 .copyright-cont {
   display: inline-flex;
   justify-content: flex-start;
   flex-wrap: wrap;
-  max-width: 82rem;
+  max-width: 78rem;
 }
